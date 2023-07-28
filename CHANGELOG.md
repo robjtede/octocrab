@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.29.0](https://github.com/XAMPPRocky/octocrab/compare/v0.28.0...v0.29.0) - 2023-07-28
+
+### Other
+- Add associated pull requests and commit compare functionality  ([#413](https://github.com/XAMPPRocky/octocrab/pull/413))
+- Fix clippy 1.71 warnings ([#424](https://github.com/XAMPPRocky/octocrab/pull/424))
+
 ## [0.27.0](https://github.com/XAMPPRocky/octocrab/compare/v0.26.0...v0.26.1) - 2023-07-18
 
 ### Other
